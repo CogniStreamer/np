@@ -1,6 +1,6 @@
 {
   "name": "@cognistreamer/np",
-  "version": "2.21.0-0",
+  "version": "2.21.0-1",
   "description": "A better `npm publish`",
   "license": "MIT",
   "repository": "sindresorhus/np",
